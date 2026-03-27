@@ -4,4 +4,4 @@ ejercicios y entregas hechos en clase
 
 
 ## Ejercicio clase 1
-En este 
+En este ejercicio aprendimos los comandos basicos de figuras, texto, relleno, fondo, y trazo de [link] (https://p5js.org/)
