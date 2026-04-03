@@ -1,4 +1,4 @@
-# Pensamiento-Computacional-secci-n-3-
+# Pensamiento-Computacional-seccion-3-
 ## En este repositorio se encuentran todos los ejercicios en clase, tareas, y entrgas del ramo pensamiento computacional
 ejercicios y entregas hechos en clase
 
