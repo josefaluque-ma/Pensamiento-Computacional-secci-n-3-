@@ -9,7 +9,7 @@ En este ejercicio aprendimos los comandos basicos de figuras, texto, relleno, fo
 ## Avances entrega para solemne
 La solemne consta de realizar una obra hecha de formas geometricas en codigo de la pagina p5.js 
 La imagen que yo he seleccionado es una obra llamada "Sin título (A)" de la artista chilena Matilde Pérez 
- ![Descripción imagen](imagenes/Imagenoriginal.jpg)
+ ![Descripción imagen](imagenes/Imagenoriginal.png)
 
 La principal razon por la que elgí esta artista es debido a que en un ramo anterior tuve que investigar sobre ella y por cooincidencia habia asistido a una exposición en la que reunian obras de artistas chilenos,  en ella estaban obras del grupo rectangulo y signo, cuando ivestigue y encontre esta conexción,  me senti muy interesada y motivada con la idea de mejorar la experiencia sensorial a traves del arte como algo que deberia estar en la vida diaria. Sinceramente por eso elegí a la artista,  la razon de mi elección de obra es más que nada porque me gustó mucho y me motivó el reto.
 
